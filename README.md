@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+Hi, I am a Masters student in Computer Science at UC San Diego, currently looking for internships for Summer 2023. I am very interested in both Software Systems and Programming Languages - so I ideally want to work on any of: distributed systems design and implementation, compilers and programming language runtimes, low-level systems programming. I am proficient in C, and basics of C++. Currently learning Go and Rust.
+
+I have some experience with Java compilers and runtimes: I worked on some modifications to Eclipse OpenJ9 Java VM (an alternative to OpenJDK with its HotSpot VM) and so have a decent idea of JIT compilers, code generation for x86_64, how garbage collectors work etc. 
+
 
 <!--
 **Swapnilr1/Swapnilr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
